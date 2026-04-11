@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfzalAshraf
 - 👀 I’m interested in c, c++, c#, python, vba.
-- 🌱 I’m currently learning c, python in eclipse.
+- 🌱 I’m currently learning c, python, vibe coding, using claude code, VS Code or antigravity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
