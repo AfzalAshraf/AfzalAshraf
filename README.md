@@ -8,7 +8,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=AfzalAshraf&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
