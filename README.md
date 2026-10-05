@@ -41,7 +41,7 @@
 - 🧠 &nbsp; Diving deeper into **Machine Learning (PyTorch / TensorFlow)** and **cloud (AWS / Azure)**
 - 🌱 &nbsp; Always learning something new — right now it's systems programming & modern DevOps
 - 🤝 &nbsp; Open to collaborations on interesting open-source projects
-- 📫 &nbsp; Reach me: **afzal.ashraf@example.com** *(replace with your real email)*
+- 📫 &nbsp; Reach me: **iafzal2941@gmail.com**
 
 ---
 
