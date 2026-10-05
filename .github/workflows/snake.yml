@@ -1,0 +1,42 @@
+# Generates an animated SVG of a snake eating the contribution graph
+# Runs on a schedule (every 24h) and after every push to main.
+# Output is written to the `snake-output` branch, then embedded in README.md.
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"   # every 24 hours
+  workflow_dispatch:        # manual trigger
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+
+jobs:
+  generate:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-blue.svg?palette=github-blue&color_snake=58A6FF&color_dots=#1e1e2e,#313244,#585b70,#7f849c
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push SVG to snake-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: snake-output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

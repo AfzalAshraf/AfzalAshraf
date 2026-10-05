@@ -24,11 +24,8 @@
     <a href="https://github.com/AfzalAshraf?tab=repositories">
       <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=public_repos&url=https://api.github.com/users/AfzalAshraf&color=58A6FF&style=for-the-badge&cacheSeconds=3600" />
     </a>
-    <a href="https://github.com/AfzalAshraf?tab=followers">
-      <img alt="Followers" src="https://img.shields.io/github/followers/AfzalAshraf?color=39D353&logo=github&style=for-the-badge" />
-    </a>
     <a href="https://github.com/AfzalAshraf">
-      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AfzalAshraf&color=58A6FF&style=for-the-badge&abbreviated=true" />
+      <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AfzalAshraf&color=39D353&style=for-the-badge&abbreviated=true" />
     </a>
   </p>
 
@@ -77,6 +74,20 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AfzalAshraf&theme=transparent&no-frame=true&row=1&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AfzalAshraf/AfzalAshraf/snake-output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AfzalAshraf/AfzalAshraf/snake-output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AfzalAshraf/AfzalAshraf/snake-output/github-contribution-grid-snake-dark.svg" alt="Snake eating my GitHub contributions" />
+  </picture>
+  <br/>
+  <sub><i>Generated daily from my real contribution graph.</i></sub>
 </div>
 
 ---
