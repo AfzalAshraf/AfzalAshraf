@@ -58,7 +58,7 @@
 | **Cloud / DevOps**  | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
-
+[![PWA checks and deployment](https://github.com/AfzalAshraf/PSC-Coaching-App/actions/workflows/pwa.yml/badge.svg)](https://github.com/AfzalAshraf/PSC-Coaching-App/actions/workflows/pwa.yml)
 ---
 
 ### 📊 GitHub Stats
