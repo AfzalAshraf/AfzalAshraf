@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfzalAshraf&theme=onedark&no-frame=true&row=1&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AfzalAshraf&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
 </div>
 
 ---
