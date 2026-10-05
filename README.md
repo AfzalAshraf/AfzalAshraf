@@ -64,16 +64,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AfzalAshraf&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAshraf&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=AfzalAshraf&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AfzalAshraf&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AfzalAshraf&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AfzalAshraf&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
 </div>
 
 ---
